@@ -1,0 +1,20 @@
+* bbc81ad (HEAD -> main, origin/main) docs: Add changelog
+* ad0ccf9 Resolved merge conflicts in GIT_JOURNEY.md
+* e351adf (tag: v1.1.0, tag: v1.0.0) docs: Update README
+* e36e8f4 docs: Update README
+| * 00025c5 (origin/feature/another-feature) feat: Add test feature
+|/  
+| * 0b6eb27 (feature/new-feature) Resolved merge conflicts manually
+|/  
+* ce2bbb3 (origin/feature/new-feature, feature/another-feature) Updated README.md before merge
+* 53c1716 merge: Resolve all conflicts between main and dev branches
+* 0ba4e61 Merged changes and resolved conflicts in app-config.yaml
+*   52d0d3d Resolved remaining merge conflicts and completed merge
+|\  
+| * 02011a5 (instructor/dev, dev) updating dev
+* | 0312c6f (instructor/main, instructor/HEAD) updating main
+* | fadfd24 Revise README for DevOps Simulator project
+|/  
+| * d3dd9b2 (instructor/conflict-simulator, conflict-simulator) updating conflict-simulator
+|/  
+* ae630eb Initial commit
